@@ -21,9 +21,3 @@ Execute the following scripts in order to reproduce only part of the results :
 
  - "NoisyMnist_ReproduceFigures.m"      - to reproduce the figures from the noisy mnist experiment (Figure 7).
  - "NoisyMnist_ReproduceTable.m"        - to reproduce a table summarizing the objective results on the noisy mnist dataset (Table 3).
-
-
-
-
-
-
